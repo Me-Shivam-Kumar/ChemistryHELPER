@@ -11,9 +11,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <meta-data
-            android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-3166738345806882~3840105997"/>
         <activity android:name=".reagent_pdf_view"></activity>
         <activity android:name=".reagent_list" />
         <activity
