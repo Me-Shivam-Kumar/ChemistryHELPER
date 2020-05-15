@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "660426507705",
+    "firebase_url": "https://chemistryhelper-46356.firebaseio.com",
+    "project_id": "chemistryhelper-46356",
+    "storage_bucket": "chemistryhelper-46356.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660426507705:android:c0994dcaeaba6fb143e268",
+        "android_client_info": {
+          "package_name": "com.example.chemistryhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660426507705-886bpa72qoiqr1mduvpb0fo56ttsa3r8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chemistryhelper",
+            "certificate_hash": "eaee9a70a8384c7066eb22105e219c6e425e6cad"
+          }
+        },
+        {
+          "client_id": "660426507705-mg98ne1odbkrarl6vmopn405qq7m7o6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv7FizdKtFm30nRYzMAvUrQuNqNBDsc6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660426507705-mg98ne1odbkrarl6vmopn405qq7m7o6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

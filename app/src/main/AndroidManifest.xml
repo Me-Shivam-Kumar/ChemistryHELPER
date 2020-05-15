@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.chemistryhelper">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3166738345806882~3840105997"/>
+        <activity android:name=".reagent_pdf_view"></activity>
+        <activity android:name=".reagent_list" />
+        <activity
+            android:name=".chemical_formula_view"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".notes_list"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".periodic_view"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".formula_sheet_view"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".reactionviwer"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".reaction_list_activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

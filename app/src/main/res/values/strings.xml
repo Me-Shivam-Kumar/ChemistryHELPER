@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">ChemistryAID</string>
+    <string name="appheading">ChemistryHELPER</string>
+    <string-array name="options">
+        <item>ALDOL CONDENSATION</item>
+        <item>BALZ-SCHIEMANN REACTION</item>
+        <item>BENZOIN CONDENSATION</item>
+        <item>CANNIZARO REACTION</item>
+        <item>CARBYLAMINE REACTION</item>
+        <item>CLAISEN-SCHIMIDT REACTION</item>
+        <item>CLEMMENSEN REDUCTION</item>
+        <item>COUPLING REACTION</item>
+        <item>DECARBOXYLATION REACTOIN</item>
+        <item>DIAZOTISATION REACTION</item>
+        <item>ETARD REACTION</item>
+        <item>FINKELSTEIN REACTION</item>
+        <item>FISCHER ESTERIFICATION</item>
+        <item>FRIEDEL-CRAFTS REACTION</item>
+        <item>GABRIEL PHTHALIMIDE SYNTHESIS</item>
+        <item>GATTERMANN REACTION</item>
+        <item>HALOFORM REACTION</item>
+        <item>HELL-VOLHARD ZELINSKY REACTION</item>
+        <item>HOFMANN BROMAMIDE REACTION</item>
+        <item>HOFMANN ELIMINATION</item>
+        <item>HUNSDIECKER REACTION</item>
+        <item>HYDROBORATION-OXIDATION</item>
+        <item>KOLBE REACTION</item>
+        <item>PERKIN REACTION</item>
+        <item>REIMER-TIEMANN REACTION</item>
+        <item>ROSENMUND REDUCTION</item>
+        <item>SANDMEYER REACTION</item>
+        <item>SCHMIDT REACTION</item>
+        <item>STEPHEN REDUCTION</item>
+        <item>SWARTS REACTION</item>
+        <item>WILLIAMSON SYNTHESIS</item>
+        <item>WOLFF-KISHNER REDUCTION</item>
+        <item>WURTZ REACTION</item>
+    </string-array>
+
+
+</resources>
